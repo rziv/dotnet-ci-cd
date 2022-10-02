@@ -20,11 +20,11 @@ jobs:
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1
 
-   # - name: Setup NuGet
-   #   uses: NuGet/setup-nuget@v1.0.5
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1.0.5
 
-   # - name: Restore NuGet packages
-   #   run: nuget restore calendar-matrix.sln
+    - name: Restore NuGet packages
+      run: nuget restore calendar-matrix.sln
 
     - name: Build the Solution
       run: msbuild calendar-matrix.sln /p:Configuration=Release
