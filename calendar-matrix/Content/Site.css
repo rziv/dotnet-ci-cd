@@ -1,0 +1,82 @@
+﻿body {
+    direction: rtl;
+}
+
+.flex-column-container {
+    display: flex;
+    flex-direction: column;
+}
+
+div.column-header {
+    background-color: dodgerblue;
+    font-weight: bold;   
+    color: white;
+    text-align: center;
+}
+
+.calendar-grid {
+    display: flex;
+    margin: 0 0 3em 0;
+    padding: 0;
+}
+
+.calendar-grid-cell {
+    box-sizing: border-box;
+    flex: 1;
+    width: 100%;
+    padding: 0.8em 1.2em;
+    overflow: hidden;
+    list-style: none;
+    border: solid 3px white;
+    background-color: #e6e1e1;
+    min-width: 30px;
+    flex: 0.25;
+}
+
+/* Page styling
+================================== */
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,700);
+
+html {
+    height: 100%;
+    background-color: #eee;
+}
+
+body {
+    box-sizing: border-box;
+    min-height: 100%;
+    margin: 0 auto;
+    padding: 2em;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 1.2em;
+    background-color: white;
+    border: double 3px #ddd;
+    border-top: none;
+    border-bottom: none;
+}
+
+.event {
+    border: 1px solid green;
+    padding: 1px;
+    margin: 1px;
+}
+
+div.room-name {
+    background-color: blue;
+    color: white;
+   
+    font-weight: bold;
+}
+
+div.room-header {
+    background-color: dodgerblue;
+    font-weight: bold;
+}
+
+.calendar-activity {
+    background-color: #cbf4f7;
+    margin: 2px;
+    color: black;
+    border-radius: 5px;
+    padding:2px;
+}
