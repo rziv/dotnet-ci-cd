@@ -18,3 +18,11 @@ C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Kmh.UnitTests.dll.config
 C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\WebGrease.dll
 C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Antlr3.Runtime.dll
 C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Antlr3.Runtime.pdb
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Castle.Core.dll
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\NSubstitute.dll
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\nunit.framework.dll
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Castle.Core.xml
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\NSubstitute.xml
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\nunit.framework.xml
+C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
