@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="2" result="Passed" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2" engine-version="3.15.2.0" clr-version="4.0.30319.42000" start-time="2022-10-02 11:24:51Z" end-time="2022-10-02 11:24:52Z" duration="0.780396">
+  <command-line><![CDATA[C:\dev\github-ci-cd\dotnet-ci-cd\packages\NUnit.ConsoleRunner.3.15.2\tools\nunit3-console.exe  Kmh.UnitTests.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1003" name="Kmh.UnitTests.dll" fullname="C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug\Kmh.UnitTests.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2022-10-02T11:24:51.9921148Z" end-time="2022-10-02T11:24:52.3106186Z" duration="0.318167" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.19044.0" platform="Win32NT" cwd="C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug" machine-name="MM-RANZ" user="ranz" user-domain="CC" culture="he-IL" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\dev\github-ci-cd\dotnet-ci-cd\UnitTests\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.8" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.8" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="40512" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1004" name="Kmh" fullname="Kmh" runstate="Runnable" testcasecount="2" result="Passed" start-time="2022-10-02T11:24:52.0033568Z" end-time="2022-10-02T11:24:52.3106186Z" duration="0.307996" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="1-1005" name="UnitTests" fullname="Kmh.UnitTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2022-10-02T11:24:52.0033568Z" end-time="2022-10-02T11:24:52.3106186Z" duration="0.307717" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestFixture" id="1-1000" name="FormulaTest" fullname="Kmh.UnitTests.FormulaTest" classname="Kmh.UnitTests.FormulaTest" runstate="Runnable" testcasecount="2" result="Passed" start-time="2022-10-02T11:24:52.0042783Z" end-time="2022-10-02T11:24:52.3106186Z" duration="0.306243" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+          <test-case id="1-1002" name="TestSimpleCalculator" fullname="Kmh.UnitTests.FormulaTest.TestSimpleCalculator" methodname="TestSimpleCalculator" classname="Kmh.UnitTests.FormulaTest" runstate="Runnable" seed="1069935450" result="Passed" start-time="2022-10-02T11:24:52.0063489Z" end-time="2022-10-02T11:24:52.3059914Z" duration="0.299366" asserts="1" />
+          <test-case id="1-1001" name="TestSimpleFormula" fullname="Kmh.UnitTests.FormulaTest.TestSimpleFormula" methodname="TestSimpleFormula" classname="Kmh.UnitTests.FormulaTest" runstate="Runnable" seed="1607753949" result="Passed" start-time="2022-10-02T11:24:52.3079039Z" end-time="2022-10-02T11:24:52.3079039Z" duration="0.000386" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

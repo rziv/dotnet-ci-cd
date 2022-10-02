@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendar-matrix", "calendar-matrix\calendar-matrix.csproj", "{A260803D-D54F-4678-9E64-CA19040FFD2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kmh.UnitTests", "UnitTests\Kmh.UnitTests.csproj", "{5021F93E-2784-4D93-9C76-4ABE0947FE44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A260803D-D54F-4678-9E64-CA19040FFD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A260803D-D54F-4678-9E64-CA19040FFD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A260803D-D54F-4678-9E64-CA19040FFD2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5021F93E-2784-4D93-9C76-4ABE0947FE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5021F93E-2784-4D93-9C76-4ABE0947FE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5021F93E-2784-4D93-9C76-4ABE0947FE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5021F93E-2784-4D93-9C76-4ABE0947FE44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

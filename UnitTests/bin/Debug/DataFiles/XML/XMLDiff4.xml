@@ -1,0 +1,752 @@
+﻿<SystemPreferences xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DisableUpdateStudentBankDetails>false</DisableUpdateStudentBankDetails>
+  <OsherSystemEnabled>false</OsherSystemEnabled>
+  <TransInternetTerminalNumber />
+  <CreditGuardMID />
+  <UseEMVstandard>false</UseEMVstandard>
+  <InternetPaymentDocumentType xsi:nil="true" />
+  <InterenetPostponedPaymentsForFutureInvoice>false</InterenetPostponedPaymentsForFutureInvoice>
+  <InternetPaymentCashRegister xsi:nil="true" />
+  <InternetPaymentCounterAccount xsi:nil="true" />
+  <InternetPaymentSchool xsi:nil="true" />
+  <ShowThirdJobPercentageYearsInEmplymnetAgreemnets>false</ShowThirdJobPercentageYearsInEmplymnetAgreemnets>
+  <ShowHebrewDateInCalendar>false</ShowHebrewDateInCalendar>
+  <CreateLessonsByDataIntegritySettings>false</CreateLessonsByDataIntegritySettings>
+  <SendSmsPersonNotice>false</SendSmsPersonNotice>
+  <SendEmailPersonNotice>false</SendEmailPersonNotice>
+  <SendSmsOnAssignmentTermChange>false</SendSmsOnAssignmentTermChange>
+  <TeacherAndDepartmentExamDatesToNotifyBefore xsi:nil="true" />
+  <TeacherExamNotifySendEmail>false</TeacherExamNotifySendEmail>
+  <TeacherExamNotifySendSms>false</TeacherExamNotifySendSms>
+  <CheckCourseRequirementsForStudentAccreditations>false</CheckCourseRequirementsForStudentAccreditations>
+  <CheckCalendarCollision>false</CheckCalendarCollision>
+  <PrinterTerminal />
+  <PrinterUserName />
+  <PrinterPassword />
+  <AllowSpecialTermDateForNoGradeStudent>false</AllowSpecialTermDateForNoGradeStudent>
+  <AllowTermGradeInsertionForRegisteredStudentsToTerm>false</AllowTermGradeInsertionForRegisteredStudentsToTerm>
+  <ShowNumberOfTerms>false</ShowNumberOfTerms>
+  <TeacherAppealsNotifySendEmail>false</TeacherAppealsNotifySendEmail>
+  <TeacherAppealsNotifySendSms>false</TeacherAppealsNotifySendSms>
+  <TeacherAppealsDaysToNotifyFrequency xsi:nil="true" />
+  <TeacherAppealsNotificationStatus />
+  <DepartmentAppealsNotifySendEmail>false</DepartmentAppealsNotifySendEmail>
+  <TeacherFullNameLength xsi:nil="true" />
+  <DepartmentAppealsDaysToNotifyFrequency xsi:nil="true" />
+  <DepartmentAppealsNotificationStatus />
+  <HideFinanceDomainsInReceipt>false</HideFinanceDomainsInReceipt>
+  <DepatrmentNotificationForExamQuestionnaires>false</DepatrmentNotificationForExamQuestionnaires>
+  <DepatrmentNotificationMissinGrades>false</DepatrmentNotificationMissinGrades>
+  <MustSelectAmericanExamMixType>false</MustSelectAmericanExamMixType>
+  <PersonArchiveFileSize xsi:nil="true" />
+  <SendStudentTaskRemainder>false</SendStudentTaskRemainder>
+  <SendEmailStudentTaskRemainder>false</SendEmailStudentTaskRemainder>
+  <SendSmsStudentTaskRemainder>false</SendSmsStudentTaskRemainder>
+  <StudentTaskRemainderDays xsi:nil="true" />
+  <CalendarActivityNotDataList />
+  <CalendarActivitySendEmail>false</CalendarActivitySendEmail>
+  <CalendarActivitySendSms>false</CalendarActivitySendSms>
+  <PrinterMaximumPaymentSum xsi:nil="true" />
+  <PrinterMinimumPaymentSum xsi:nil="true" />
+  <ShowOtherIdInFinanceDomainsReceipt>false</ShowOtherIdInFinanceDomainsReceipt>
+  <CoursesOnlineRegistrationYear>2018</CoursesOnlineRegistrationYear>
+  <CoursesOnlineRegistrationToYear>2018</CoursesOnlineRegistrationToYear>
+  <CoursesOnlineRegistrationUserForOrbitInterFace xsi:nil="true" />
+  <CoursesOnlineRegistrationSchool>16</CoursesOnlineRegistrationSchool>
+  <CoursesOnlineRegistrationRefer xsi:nil="true" />
+  <CoursesOnlineRegistrationStatus xsi:nil="true" />  
+  <CoursesOnlineRegistrationServerAddress />
+  <CoursesOnlineRegistartionHDeclaration />
+  <CoursesOnlineRegistrationTerminalNumber />
+  <CoursesOnlineRegistrationErrorText />
+  <CoursesOnlineRegistrationHebrewRequiredFieldsEnglishLastName>false</CoursesOnlineRegistrationHebrewRequiredFieldsEnglishLastName>
+  <CoursesOnlineRegistrationHebrewRequiredFieldsEnglishFirstName>false</CoursesOnlineRegistrationHebrewRequiredFieldsEnglishFirstName>
+  <CoursesOnlineRegistrationUpdateFields>false</CoursesOnlineRegistrationUpdateFields>
+  <SendEmailOnAssignmentTermChange>false</SendEmailOnAssignmentTermChange>
+  <SendMessageForChangingStatus>false</SendMessageForChangingStatus>
+  <SendMessageForChangingLessonStatus>false</SendMessageForChangingLessonStatus>
+  <SendMessageForChangingLessonStatusSMS>false</SendMessageForChangingLessonStatusSMS>
+  <SendMessageForAbsenceLesson>false</SendMessageForAbsenceLesson>
+  <SendEmailDepartmentSecretaryOnStudySession>false</SendEmailDepartmentSecretaryOnStudySession>
+  <SendOnStudySessionRoomChanged>false</SendOnStudySessionRoomChanged>
+  <SendSmsOnScheduledStudySession>false</SendSmsOnScheduledStudySession>
+  <SendEmailOnScheduledStudySession>false</SendEmailOnScheduledStudySession>
+  <SendExternalSystemsMessageOnScheduledStudySession>false</SendExternalSystemsMessageOnScheduledStudySession>
+  <SendOnScheduledStudySessionChanged>false</SendOnScheduledStudySessionChanged>
+  <SendOnScheduledStudySessionDeleted>false</SendOnScheduledStudySessionDeleted>
+  <SendOnScheduledStudySessionAdded>false</SendOnScheduledStudySessionAdded>
+  <SendOnScheduledStudySessionTeacherAbsence>false</SendOnScheduledStudySessionTeacherAbsence>
+  <SendGeneralProjectNotifications>false</SendGeneralProjectNotifications>
+  <SendCommunicationLogNotifications>false</SendCommunicationLogNotifications>
+  <AllowStudentTasksNotifications>false</AllowStudentTasksNotifications>
+  <SendCrmImportNotifications>false</SendCrmImportNotifications>
+  <CrmImportNotificationTemplate />
+  <SendCrmImportNotificationsSMS>false</SendCrmImportNotificationsSMS>
+  <CrmImportNotificationTemplateSMS />
+  <LessonStatusToIgnoreForOwerlap />
+  <IgnoreStudentFacilitationsForTermsAssignments>false</IgnoreStudentFacilitationsForTermsAssignments>
+  <PerformExamShiftRecordCreationBeforeAutomaticSupervisorAssignment>false</PerformExamShiftRecordCreationBeforeAutomaticSupervisorAssignment>
+  <ForceFillStudysessonCurrnetTeacherHrmsRank>false</ForceFillStudysessonCurrnetTeacherHrmsRank>
+  <RequestType />
+  <RunObstructionTask>false</RunObstructionTask>
+  <ExportNonBalanceSheetScholarship>false</ExportNonBalanceSheetScholarship>
+  <StudentOrderWhileAssigningToTermRoom>LastNameThenFirstName</StudentOrderWhileAssigningToTermRoom>
+  <ShowExamNotebookNum>false</ShowExamNotebookNum>
+  <ManageTermFacilitationsEligibles>false</ManageTermFacilitationsEligibles>
+  <YearClosureCreditAsDebit>false</YearClosureCreditAsDebit>
+  <HideNegativeImmediateBalance>false</HideNegativeImmediateBalance>
+  <ExludeScholarshipsAndFinancingBodyFromImmidiateBalance>false</ExludeScholarshipsAndFinancingBodyFromImmidiateBalance>
+  <YearClosureTransactionStartFullDebit>false</YearClosureTransactionStartFullDebit>
+  <UseValidityDatesForCompanyPrices>false</UseValidityDatesForCompanyPrices>
+  <AllowDiffrentLanguagesInPersonEnglishNames>false</AllowDiffrentLanguagesInPersonEnglishNames>
+  <MinimumAverageUnitsForAcademicDegreeTypeGraduationRank />
+  <DefaultStudyTypeForStudentLessonFilter xsi:nil="true" />
+  <AsembleReceiptsInFinanceDomainsForBalance>false</AsembleReceiptsInFinanceDomainsForBalance>
+  <FactorMaximumAbsoluteAddition xsi:nil="true" />
+  <FactorMaximumPercentageAddition xsi:nil="true" />
+  <FactorMaximumAssignmentGrade xsi:nil="true" />
+  <MaximumBonusForStudentInLesson xsi:nil="true" />
+  <MinimumGradeForStudentLessonBonusIsPassingGrade>false</MinimumGradeForStudentLessonBonusIsPassingGrade>
+  <MaximumStudentLessonAverageGrade xsi:nil="true" />
+  <RequiredAssignmentForStudentLessonBonus />
+  <ThirdTermSystemLessonStatus />
+  <AvailableLanguage>
+    <OrbitUILanguage>Hebrew</OrbitUILanguage>
+  </AvailableLanguage>
+  <NotBelongingCountsInAverage>true</NotBelongingCountsInAverage>
+  <NotPublicizedCountsInAverage>false</NotPublicizedCountsInAverage>
+  <RepeatedLessonsCountsInAverage>true</RepeatedLessonsCountsInAverage>
+  <CalculateChapterWieghtAverage>true</CalculateChapterWieghtAverage>
+  <AccreditaitionCountsInAverage xsi:nil="true" />
+  <DontCalculateAverageOnCompleteGraduationStatus>false</DontCalculateAverageOnCompleteGraduationStatus>
+  <PrepartoryIncomesMarriedWithChildren />
+  <PrepartoryIncomesMarriedWithoutChildren />
+  <PrepartoryIncomesSingle />
+  <PrepartoryPersonNumMarriedWithChildren />
+  <PrepartoryPersonNumMarriedWithoutChildren />
+  <PrepartoryPersonNumSingle />
+  <PrepartoryPersonNumBrothersMaxAgeMarriedWithChildren xsi:nil="true" />
+  <PrepartoryPersonNumBrothersMaxAgeMarriedWithoutChildren xsi:nil="true" />
+  <PrepartoryPersonNumBrothersMaxAgeSingle xsi:nil="true" />
+  <PrepartoryDischargedSoldierYearsCount xsi:nil="true" />
+  <PrepartoryLoneAndReserveDutySoliderYearsCount xsi:nil="true" />
+  <PrepartoryStudentNationality xsi:nil="true" />
+  <PrepartorySecoundStudentNationality xsi:nil="true" />
+  <PrepartoryEthiopianParentAssistancePercent xsi:nil="true" />
+  <PrepartoryEthiopianParentAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartoryEthiopianStudentAssistancePercent xsi:nil="true" />
+  <PrepartoryEthiopianStudentAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartoryStudentLoneSoliderAssistancePercent xsi:nil="true" />
+  <PrepartoryStudentLoneSoliderAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartoryStudentOrphanAssistancePercent xsi:nil="true" />
+  <PrepartoryStudentOrphanAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartoryStudentOrphanBothParentsAssistancePercent xsi:nil="true" />
+  <PrepartoryStudentOrphanBothParentsAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartoryStudentNationalityAssistancePercent xsi:nil="true" />
+  <PrepartoryStudentNationalityAssistanceTuitionPercent xsi:nil="true" />
+  <PrepartorySecoundStudentNationalityAssistancePercent xsi:nil="true" />
+  <PrepartorySecoundStudentNationalityAssistanceTuitionPercent xsi:nil="true" />
+  <LoneSoliderTypeId xsi:nil="true" />
+  <AdminSettings>
+    <OfficeWsVersion>Version2</OfficeWsVersion>
+    <AddBordersOnExcelExport>false</AddBordersOnExcelExport>
+    <ShowFetchZipCodeFromIsraelPost>false</ShowFetchZipCodeFromIsraelPost>
+    <ShowSendEmailFormButton>true</ShowSendEmailFormButton>
+    <ShowGraphOutputOptionOnCustomReports>false</ShowGraphOutputOptionOnCustomReports>
+    <ShowCalculatedFieldsOptionOnCustomReports>false</ShowCalculatedFieldsOptionOnCustomReports>
+    <TomaxTeacherWebServiceUrl />
+    <TomaxTeacherWebServiceUsername />
+    <TomaxTeacherWebServicePassword />
+    <TomaxTeacherTeacherSSOUrl />
+    <MaximumPasswordAgeInDays>180</MaximumPasswordAgeInDays>
+    <OfferPasswordChangeDaysBeforeExpire>14</OfferPasswordChangeDaysBeforeExpire>
+    <PasswordHistoryLength>12</PasswordHistoryLength>
+    <MaximumOrbitLivePasswordAgeInDays>90</MaximumOrbitLivePasswordAgeInDays>
+    <OfferOrbitLivePasswordChangeDaysBeforeExpire>14</OfferOrbitLivePasswordChangeDaysBeforeExpire>
+    <OrbitLivePasswordHistoryLength>12</OrbitLivePasswordHistoryLength>
+    <OrbitLivePasswordMinimalLength>8</OrbitLivePasswordMinimalLength>
+    <ExtraReportsDll />
+  </AdminSettings>
+  <NewScholarshipStudentLinkValueDateSettings>None</NewScholarshipStudentLinkValueDateSettings>
+  <CreditCardTokenCommunication>false</CreditCardTokenCommunication>
+  <MasavStudentIdentifier>StudentAccount</MasavStudentIdentifier>
+  <IgnoreAcademicYearMatchingForLearningStatus>true</IgnoreAcademicYearMatchingForLearningStatus>
+  <CalculateImmidiateBalanceFromStandingOrders>false</CalculateImmidiateBalanceFromStandingOrders>
+  <DontProduceCreditCardCustomerSignaturePage>false</DontProduceCreditCardCustomerSignaturePage>
+  <DontProduceCreditCardCustomerSignaturePagePhone>true</DontProduceCreditCardCustomerSignaturePagePhone>
+  <StandingOrderDefraymentImplicationSettings>None</StandingOrderDefraymentImplicationSettings>
+  <SatGradeStyle>MainGrade</SatGradeStyle>
+  <DisplayIdSpaceCounterOnReceipt xsi:nil="true" />
+  <HideFullCashRegisterProduction>false</HideFullCashRegisterProduction>
+  <CalculateTuitionReductionBeforeDiscounts>false</CalculateTuitionReductionBeforeDiscounts>
+  <ShowPercentageDiscountSumOnRow>false</ShowPercentageDiscountSumOnRow>
+  <SumDiscountAfterPointsCalculation>false</SumDiscountAfterPointsCalculation>
+  <ShowOriginalSumBeforeDiscountOnDescription>false</ShowOriginalSumBeforeDiscountOnDescription>
+  <RemoveTermOnDeleteFromLesson>false</RemoveTermOnDeleteFromLesson>
+  <RemoveTermOnDropOutFromLessons>false</RemoveTermOnDropOutFromLessons>
+  <OsherExportTeacherInactiveSubjects>false</OsherExportTeacherInactiveSubjects>
+  <PeriodStatusId xsi:nil="true" />
+  <MaximumSumForZeroing>100</MaximumSumForZeroing>
+  <MinimumSumForZeroing>-100</MinimumSumForZeroing>
+  <ForceSelectingCreditCardCompanyCollectionPathType>false</ForceSelectingCreditCardCompanyCollectionPathType>
+  <ManageHandMadeTransctions>false</ManageHandMadeTransctions>
+  <ForceSelectingIdNumberCollectionPathType>false</ForceSelectingIdNumberCollectionPathType>
+  <ManageDevelopmentHours>false</ManageDevelopmentHours>
+  <SetSplitedPaymentsForDelayedInvoice>false</SetSplitedPaymentsForDelayedInvoice>
+  <EnableFreeRoomSearchOnDialog>false</EnableFreeRoomSearchOnDialog>
+  <AllowOnlyOnePaymentMethodInReceipt>false</AllowOnlyOnePaymentMethodInReceipt>
+  <UseIncomeDispatch>false</UseIncomeDispatch>
+  <UseLessonIncomeDispatch>false</UseLessonIncomeDispatch>
+  <JustifiedAbsenceReasons />
+  <DontShowLearningProgramInVoucherOnBalanaceSheet>false</DontShowLearningProgramInVoucherOnBalanaceSheet>
+  <DisplayYearClosureTransactionSums>false</DisplayYearClosureTransactionSums>
+  <IncomeDispatchEntities />
+  <AllowOnlyOneIncomDispatchPerDocument>false</AllowOnlyOneIncomDispatchPerDocument>
+  <DontShowGenericCustomerSelect>false</DontShowGenericCustomerSelect>
+  <FinanceNumberMandatoryForIncomeDispatchItems>false</FinanceNumberMandatoryForIncomeDispatchItems>
+  <CopyIncomeDispatchFromReceiptToDelayedInvoice>false</CopyIncomeDispatchFromReceiptToDelayedInvoice>
+  <DenyRoutingInvoiceTransactionOfIncomes>false</DenyRoutingInvoiceTransactionOfIncomes>
+  <ShowIncomeDispatchAfterNewPayment>false</ShowIncomeDispatchAfterNewPayment>
+  <RequiredFieldStudentLearningProgramProperty1>false</RequiredFieldStudentLearningProgramProperty1>
+  <DefaultStudentLearningProgramDetailLocationId xsi:nil="true" />
+  <RequriedFieldFieldThresholdCode>false</RequriedFieldFieldThresholdCode>
+  <SelectionCoursesInThreshold>false</SelectionCoursesInThreshold>
+  <IgnoreCheckBasketAndLessonYear>false</IgnoreCheckBasketAndLessonYear>
+  <DictateThresholdOnStuentLessonLink>false</DictateThresholdOnStuentLessonLink>
+  <SortChequeTransactionByChequeNumber>false</SortChequeTransactionByChequeNumber>
+  <CashRegisterProductionByCashRegisterUsers>false</CashRegisterProductionByCashRegisterUsers>
+  <HideSimpleCourseRequirements>false</HideSimpleCourseRequirements>
+  <ShowSelectedRoomsInAssignmentTerms>false</ShowSelectedRoomsInAssignmentTerms>
+  <BasketMustAddAsignment>false</BasketMustAddAsignment>
+  <LimmitStudySessionLinkRoomWithoutTerm>false</LimmitStudySessionLinkRoomWithoutTerm>
+  <StudentRemarkIsReadonly>false</StudentRemarkIsReadonly>
+  <InterestedRemarkIsReadonly>false</InterestedRemarkIsReadonly>
+  <IgnoreNotLearnedLessonsInLearningProgramPointsCount>false</IgnoreNotLearnedLessonsInLearningProgramPointsCount>
+  <ShowHebrewDatesInAttendance>false</ShowHebrewDatesInAttendance>
+  <StudentFinanceBodyTransactionAsCredit>false</StudentFinanceBodyTransactionAsCredit>
+  <ActiveDivisionForSinglePersonDocumentReportGeneration>false</ActiveDivisionForSinglePersonDocumentReportGeneration>
+  <TeamworkWsUrl />
+  <TeamworkWsPassword />
+  <OrbitliveLogInUrl />
+  <OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+    <OnlineRegistrationData>
+      <Name />
+      <Url />
+      <Username />
+      <Password />
+      <Financedomain>-1</Financedomain>
+      <Company>-1</Company>
+      <Year xsi:nil="true" />
+    </OnlineRegistrationData>
+  </OnlineRegistrationData>
+  <StudentStatusInAutomaticLearningProgramRegistration xsi:nil="true" />
+  <UpdateStudentDetailsOnOnlineRegistrationForce>false</UpdateStudentDetailsOnOnlineRegistrationForce>
+  <DoNotRegistrationForceFirstAndLastName>false</DoNotRegistrationForceFirstAndLastName>
+  <DoNotAllowTransferUnPaymentOnlineRegisteration>false</DoNotAllowTransferUnPaymentOnlineRegisteration>
+  <UpdateStudentPersonCategoryGroupIdsOnOnlineRegistrationForce />
+  <ShowPriorityColumnOnEditInterestedPerson>false</ShowPriorityColumnOnEditInterestedPerson>
+  <MergeSimilarCheques>false</MergeSimilarCheques>
+  <ForbidDeletionOfHandmadeTransactions>false</ForbidDeletionOfHandmadeTransactions>
+  <NegativeDebitHandmadeMoneyTransactionMustAppruval>false</NegativeDebitHandmadeMoneyTransactionMustAppruval>
+  <NegativeDebitHandmadeMoneyTransactionMustAppruvalStatus xsi:nil="true" />
+  <PersonalDataMoeInterfaceVersion>Version1</PersonalDataMoeInterfaceVersion>
+  <HideStudentDisplayIdFromPaymentRecpientText>false</HideStudentDisplayIdFromPaymentRecpientText>
+  <PreventObstructedStudentReportGeneration>false</PreventObstructedStudentReportGeneration>
+  <PreventLinkStudentToLearningProgramOnLearningBreakForSameLearingProgram>false</PreventLinkStudentToLearningProgramOnLearningBreakForSameLearingProgram>
+  <SplitChequesByDateForTransaction>false</SplitChequesByDateForTransaction>
+  <HideDiscountWordInBillingLine>false</HideDiscountWordInBillingLine>
+  <LockDiscountDescription>false</LockDiscountDescription>
+  <AllowHandmadeDiscounts>true</AllowHandmadeDiscounts>
+  <ShowScholarshipType>false</ShowScholarshipType>
+  <CheckStudentBalance>false</CheckStudentBalance>
+  <PreventExceededScholarshipBalance>false</PreventExceededScholarshipBalance>
+  <UsePaymentTypeDirect>false</UsePaymentTypeDirect>
+  <PreventExceededEstimatedScholarship>false</PreventExceededEstimatedScholarship>
+  <RepeatedCourseTuitionTypeId xsi:nil="true" />
+  <DoubleRepeatedCourseTuitionTypeId xsi:nil="true" />
+  <PreviousRepeatedCourseTuitionTypeId xsi:nil="true" />
+  <StudentBalancePropertiesDefinitionsId xsi:nil="true" />
+  <PreventExceededForInternalScholarships>false</PreventExceededForInternalScholarships>
+  <PreventExceededForMasterScholarship>false</PreventExceededForMasterScholarship>
+  <FundTypeForPreventExceeded xsi:nil="true" />
+  <LessonCopyPrefixLessonUsercode />
+  <CheckStudentBalanceYearsRange>PreviousYear</CheckStudentBalanceYearsRange>
+  <UseRealValueDateForCreditCardFinanceDomainSplit>false</UseRealValueDateForCreditCardFinanceDomainSplit>
+  <InterestedPersonaAcceptSMS>true</InterestedPersonaAcceptSMS>
+  <InterestedPersonaAcceptCommercial>true</InterestedPersonaAcceptCommercial>
+  <InterestedPersonaAcceptTelephone>true</InterestedPersonaAcceptTelephone>
+  <InterestedPersonaAcceptEmail>true</InterestedPersonaAcceptEmail>
+  <InterestedPersonaAcceptMail>true</InterestedPersonaAcceptMail>
+  <TeacherAcceptSMS>true</TeacherAcceptSMS>
+  <TeacherAcceptCommercial>true</TeacherAcceptCommercial>
+  <TeacherAcceptTelephone>true</TeacherAcceptTelephone>
+  <TeacherAcceptEmail>true</TeacherAcceptEmail>
+  <TeacherAcceptMail>true</TeacherAcceptMail>
+  <StudentAcceptSMS>true</StudentAcceptSMS>
+  <StudentAcceptCommercial>true</StudentAcceptCommercial>
+  <StudentAcceptTelephone>true</StudentAcceptTelephone>
+  <StudentAcceptEmail>true</StudentAcceptEmail>
+  <StudentAcceptMail>true</StudentAcceptMail>
+  <UseStudentDisplayIdOnInvoiceReceipt>false</UseStudentDisplayIdOnInvoiceReceipt>
+  <DontShowBalanceOnInvoiceReceipt>false</DontShowBalanceOnInvoiceReceipt>
+  <DiscountOrder>CompanyFirst</DiscountOrder>
+  <ShowStudentDetailsInGridOnSelectedPages>false</ShowStudentDetailsInGridOnSelectedPages>
+  <PartialityOrder>PartialPriceFirst</PartialityOrder>
+  <ReturnedChequesMustHaveBankAccount>false</ReturnedChequesMustHaveBankAccount>
+  <PersonAddExtraFieldSettings>
+    <StudentFields />
+  </PersonAddExtraFieldSettings>
+  <WarnOnPaymentMorethanBalance>false</WarnOnPaymentMorethanBalance>
+  <CreditCardTerminalByDivision />
+  <AllowCreditCardChargeWithCardPresence>false</AllowCreditCardChargeWithCardPresence>
+  <MustUseCreditCardWebCharge>false</MustUseCreditCardWebCharge>
+  <CloseCourseInterestOnRegistration>true</CloseCourseInterestOnRegistration>
+  <SendInvoiceReceiptDocumentAsattachment>true</SendInvoiceReceiptDocumentAsattachment>
+  <IgnoreLessonChaptersForMoe>true</IgnoreLessonChaptersForMoe>
+  <ExportCollegeCheque>false</ExportCollegeCheque>
+  <ConnectCollegeChequeToRegister>true</ConnectCollegeChequeToRegister>
+  <ConnectReturnedChequesToRegister>true</ConnectReturnedChequesToRegister>
+  <FillFirstChequeLineDate>false</FillFirstChequeLineDate>
+  <RoundTuitionreductionSum>false</RoundTuitionreductionSum>
+  <AutoAssignSpecializationType>false</AutoAssignSpecializationType>
+  <ForceSelectingCreditCardCompanyOnPayment>false</ForceSelectingCreditCardCompanyOnPayment>
+  <UseFinanceDomains>false</UseFinanceDomains>
+  <CalculateStudentDebitsOnFly>true</CalculateStudentDebitsOnFly>
+  <UseHebrewActiveYear>false</UseHebrewActiveYear>
+  <CheckPaymentAccount>true</CheckPaymentAccount>
+  <IgnorCourseEditFields>false</IgnorCourseEditFields>
+  <CloseInterestOnRegistration>true</CloseInterestOnRegistration>
+  <PersonNameSearchFromStart>false</PersonNameSearchFromStart>
+  <EducationalItemsListType>All</EducationalItemsListType>
+  <SingleYearMode>false</SingleYearMode>
+  <AllowLinkTeacherToCourseOnlyIfCourseFieldMatch>false</AllowLinkTeacherToCourseOnlyIfCourseFieldMatch>
+  <SendScheduledMessages>false</SendScheduledMessages>
+  <PersonListType>All</PersonListType>
+  <LessonNewStudySessionInModal>true</LessonNewStudySessionInModal>
+  <UsePelecardPCI>false</UsePelecardPCI>  
+  <TransactionsWebserviceUrl />
+  <RedirectTransactionsWebserviceUrl />
+  <PelecardInternetTerminalNumber />
+  <CreditCardClearingCompanyCodes>IsraCard=;VisaCal=;Dyners=;AmericanExpress=;LeumiCard=;</CreditCardClearingCompanyCodes>
+  <UseCreditCardStripReader>false</UseCreditCardStripReader>
+  <IgnoreStudySessionOverlap>true</IgnoreStudySessionOverlap>
+  <HashavshevetFileType>Dat</HashavshevetFileType>
+  <ForceCounterDocumnetReason>false</ForceCounterDocumnetReason>
+  <WithoutThresholdYear>false</WithoutThresholdYear>
+  <UseRoadMapAndSpecsFromCourse>false</UseRoadMapAndSpecsFromCourse>
+  <NumYearsToCalculateAccountStatus xsi:nil="true" />
+  <AcademicDebtCalculationBeforeGraduationFrom>0</AcademicDebtCalculationBeforeGraduationFrom>
+  <AlsoUseStudentAccreditationAsGraduateDate>false</AlsoUseStudentAccreditationAsGraduateDate>
+  <IgnoreNoChapterLessonForDeserveDateCalculation>false</IgnoreNoChapterLessonForDeserveDateCalculation>
+  <CheckLearningProgramCombinations>false</CheckLearningProgramCombinations>
+  <AllowTransferWithLearningBreak>false</AllowTransferWithLearningBreak>
+  <AllowTransferToSameAcademicDegreeTypeOnly>false</AllowTransferToSameAcademicDegreeTypeOnly>
+  <AllowEditLearningProgramGraduationStatuses />
+  <PreventEditLessonInStatuses />
+  <AutomaticStudentIdType>2</AutomaticStudentIdType>
+  <EditStudentPageType>Standard</EditStudentPageType>
+  <StudentInLearningProgramPageType>Version1</StudentInLearningProgramPageType>
+  <EditInterestedPersonPageType>IncludeInterestAndCommunicationLog</EditInterestedPersonPageType>
+  <HideCommunicationLogsWhenUsingCommunicationLogHeaders>false</HideCommunicationLogsWhenUsingCommunicationLogHeaders>
+  <CourseLessonText>CourseAndLesson</CourseLessonText>
+  <LessonWaitingListDefaultStatusAddStudent xsi:nil="true" />
+  <LessonWaitingListDefaultStatusLinkStudentToLesson xsi:nil="true" />
+  <LessonWaitingListDefaultStatusLinkStudentToOtherLesson xsi:nil="true" />
+  <LessonWaitingListDefaultStatusCancelStudent xsi:nil="true" />
+  <AcademicHour>Academic</AcademicHour>
+  <MinimalPasswordStrength>Medium</MinimalPasswordStrength>
+  <StudentRegistrationTransferRoadmapOptions>ToLearningProgramDetail</StudentRegistrationTransferRoadmapOptions>
+  <StudentRegistraitonTransferVersion>Version1</StudentRegistraitonTransferVersion>
+  <DigitalSignatureWsVersion xsi:nil="true" />
+  <SelectedStudentRegistrationTransferTo>ToStudentsAndInterested</SelectedStudentRegistrationTransferTo>
+  <FinaleGradeOnly>true</FinaleGradeOnly>
+  <FinalGradeOverride>None</FinalGradeOverride>
+  <MaximumGradeOnPreviousTermForNextTermAssignment xsi:nil="true" />
+  <PreventVatChanges>false</PreventVatChanges>
+  <InterestedPersonPreviewAdd>true</InterestedPersonPreviewAdd>
+  <StudentPreviewAdd>true</StudentPreviewAdd>
+  <TeacherPreviewAdd>true</TeacherPreviewAdd>
+  <TabLayout>2</TabLayout>
+  <HeaderHeight xsi:nil="true" />
+  <FooterHeight xsi:nil="true" />
+  <Controls>
+    <EditorControlBase>
+      <ZIndex>0</ZIndex>
+      <Stretches>false</Stretches>
+      <PictureSizing>AutoSize</PictureSizing>
+      <Alignment>Center</Alignment>
+      <Value>="- " &amp; Globals!PageNumber &amp; " -"</Value>
+      <Width>127px</Width>
+      <EditorControlPosition>Footer</EditorControlPosition>
+      <EditorControlType>Text</EditorControlType>
+      <Name>txtTemplatePageNumberFooter</Name>
+    </EditorControlBase>
+    <EditorControlBase>
+      <ZIndex>0</ZIndex>
+      <Stretches>false</Stretches>
+      <Height>21px</Height>
+      <PictureSizing>AutoSize</PictureSizing>
+      <Direction>RTL</Direction>
+      <Alignment>Right</Alignment>
+      <Value>="דף " &amp; Globals!PageNumber &amp; " מתוך " &amp; Globals!TotalPages</Value>
+      <Width>185px</Width>
+      <Top>82px</Top>
+      <EditorControlPosition>Header</EditorControlPosition>
+      <EditorControlType>Text</EditorControlType>
+      <Name>txtTemplatePageCounter</Name>
+    </EditorControlBase>    
+  </Controls>
+  <ApplicationLogType>0</ApplicationLogType>
+  <MinYearForValidation>1900</MinYearForValidation>
+  <NewComerByMinYears>0</NewComerByMinYears>
+  <MaxYearForValidation>2400</MaxYearForValidation>
+  <ActiveYear>2020</ActiveYear>
+  <DateFormat>Standart</DateFormat>
+  <LogSeverity>1</LogSeverity>
+  <ReportPrefs>
+    <MarginRight>0.5</MarginRight>
+    <MarginLeft>0.5</MarginLeft>
+    <MarginBottom>0.5</MarginBottom>
+    <MarginTop>0.5</MarginTop>
+    <ReportDirection>2</ReportDirection>
+    <FontName>David</FontName>
+    <StoreReportInArchive>false</StoreReportInArchive>
+    <HideRoadMapAndSpecializationOnStudentGradeReportAsDiploma>false</HideRoadMapAndSpecializationOnStudentGradeReportAsDiploma>
+    <UseAccreditationsDictatedCourseName>false</UseAccreditationsDictatedCourseName>
+    <EmailTitle />
+    <EmailBody />
+  </ReportPrefs>
+  <PersonArchiveFileTypeForScholarshipRequest xsi:nil="true" />
+  <OtherPaymentMethodBankAccountIsRequired>false</OtherPaymentMethodBankAccountIsRequired>
+  <StudySeesionHRDetailsEditEnable>false</StudySeesionHRDetailsEditEnable>
+  <CheckStandingOrderPaymentBankDetails>false</CheckStandingOrderPaymentBankDetails>
+  <DisableFinanceDomainsTransfering>false</DisableFinanceDomainsTransfering>
+  <DisableInfluencePaymentScholarshipsTransactions>false</DisableInfluencePaymentScholarshipsTransactions>
+  <AutomaticallyAssignAccreditationsData>false</AutomaticallyAssignAccreditationsData>
+  <AutomaticallyAssignIncludesInStudentAverage>false</AutomaticallyAssignIncludesInStudentAverage>
+  <LockStudentBalanceOnYearClosure>false</LockStudentBalanceOnYearClosure>
+  <StudentAccountConsideredLockedOnLockedFinancialYear>false</StudentAccountConsideredLockedOnLockedFinancialYear>
+  <CreateClosingYearTransactionForLockedStudentAccounts>false</CreateClosingYearTransactionForLockedStudentAccounts>
+  <MaximumCashPercentForYear xsi:nil="true" />
+  <MaximumCashSumInOneDocument xsi:nil="true" />
+  <MinPrecentAdvancePaymentExamination xsi:nil="true" />
+  <UseYearsInInstitutionAdvancement>false</UseYearsInInstitutionAdvancement>
+  <SmsMaxRecipientsAlert xsi:nil="true" />
+  <CancelOtherPaymentType>false</CancelOtherPaymentType>
+  <OnlineRegistrationCashRegister xsi:nil="true" />
+  <OnlineRegistrationFinanceDomain>0</OnlineRegistrationFinanceDomain>
+  <OnlineRegistrationCounterAccount xsi:nil="true" />
+  <OnlineRegistrationPaymentClassification xsi:nil="true" />
+  <FinanceCodeMandatoryField>false</FinanceCodeMandatoryField>
+  <SendSmsAlertOnCommunicationLogStatusUpdate>false</SendSmsAlertOnCommunicationLogStatusUpdate>
+  <SendPaymentDocumentsEmail>false</SendPaymentDocumentsEmail>
+  <InternetGlobalAnnouncementsTypes xsi:nil="true" />
+  <MonthFromDormitoryYearStarts>10</MonthFromDormitoryYearStarts>
+  <SetTeacherAttendanceOnNoneAttendanceSelection>false</SetTeacherAttendanceOnNoneAttendanceSelection>
+  <FillTeacherAttendedOnNoneSelectionAsTrue>false</FillTeacherAttendedOnNoneSelectionAsTrue>
+  <AutomaticallyDuplicatesRegistration>false</AutomaticallyDuplicatesRegistration>
+  <AutomaticallyDuplicatesRegistrationCrmOnly>false</AutomaticallyDuplicatesRegistrationCrmOnly>
+  <DoNotTransferStudentWithExistingIdNumber>false</DoNotTransferStudentWithExistingIdNumber>
+  <WithoutProducingReceipt>false</WithoutProducingReceipt>
+  <InterestStatusOnAutomaticLearningProgramRegistrationPayment xsi:nil="true" />
+  <InterestStatusOnAutomaticLearningProgramRegistrationNonPayment xsi:nil="true" />
+  <DisplayCourseType>false</DisplayCourseType>
+  <EditLessonsSpecialCountInSession>false</EditLessonsSpecialCountInSession>
+  <DisplayDepartmentInEditLesson>false</DisplayDepartmentInEditLesson>
+  <MustSelectCourseTypePayment>false</MustSelectCourseTypePayment>
+  <LinkStudentToLearningProgramOnNonOnlinePayment>true</LinkStudentToLearningProgramOnNonOnlinePayment>
+  <StudentLearningProgramHeaderRoadmapAcceptedStateId xsi:nil="true" />
+  <StudentLearningProgramHeaderRoadmapRejectedStateId xsi:nil="true" />
+  <StudentLearningProgramHeaderRoadmapUndeterminedStateId xsi:nil="true" />
+  <MultiStudentLearningProgramDetailsRoadmaps>false</MultiStudentLearningProgramDetailsRoadmaps>
+  <MakeTuitionUnitsEqualToYearlyHours>false</MakeTuitionUnitsEqualToYearlyHours>
+  <LessonStudySessionType>false</LessonStudySessionType>
+  <StudentLessonStatusOnLearningBreak xsi:nil="true" />
+  <CourseRequirementsChekingOperationWay xsi:nil="true" />
+  <CourseNeagiveRequirementsChekingOperationWay xsi:nil="true" />
+  <CompletionLessonsCheckingOperationWay xsi:nil="true" />
+  <PreventStudentLessonLinkChangeWhileOnLearningBreak>false</PreventStudentLessonLinkChangeWhileOnLearningBreak>
+  <SetStudentTypeOnStudentLearningProgramDetail>false</SetStudentTypeOnStudentLearningProgramDetail>
+  <SetLessonAssignmentTermEndTimeByExamQuestionnaireDuration>false</SetLessonAssignmentTermEndTimeByExamQuestionnaireDuration>
+  <AllowDictatedTermValidDate>false</AllowDictatedTermValidDate>
+  <ShowSubmissionDateToAssigments>false</ShowSubmissionDateToAssigments>
+  <CalculateSubmissionAssigmentDateByTermdate>false</CalculateSubmissionAssigmentDateByTermdate>
+  <IgnoreAssignDateToTermWithRoom>false</IgnoreAssignDateToTermWithRoom>
+  <AllowMarkTermAsCanceled>false</AllowMarkTermAsCanceled>
+  <IgnoreAssignDateToTermWithGrades>false</IgnoreAssignDateToTermWithGrades>
+  <CalculateSupervisorHoursByDictatedEndHour>false</CalculateSupervisorHoursByDictatedEndHour>
+  <ThirdTermSystem>false</ThirdTermSystem>
+  <SupervisorAssignmentByCalendarPreferences>false</SupervisorAssignmentByCalendarPreferences>
+  <AssignSupervisorToLongTermFirst>false</AssignSupervisorToLongTermFirst>
+  <AssignSupervisorLongTermDefinitionFrom xsi:nil="true" />
+  <AssignSupervisorLongTermDefinitionTo xsi:nil="true" />
+  <AssignSupervisorFromPreviousShift>false</AssignSupervisorFromPreviousShift>
+  <AssignSupervisorToNonConsecutiveShifts>false</AssignSupervisorToNonConsecutiveShifts>
+  <SupervisorForStudentsAssignmentRatio xsi:nil="true" />
+  <ShareStudySessionsWithIdenticalLessonSemesterHours>false</ShareStudySessionsWithIdenticalLessonSemesterHours>
+  <HideNotAcademicLessons>false</HideNotAcademicLessons>
+  <SendTeachersAppealsConfirmation>false</SendTeachersAppealsConfirmation>
+  <SendTeachersEmailForAppealsConfirmation>false</SendTeachersEmailForAppealsConfirmation>
+  <SendTeachersSmsForAppealsConfirmation>false</SendTeachersSmsForAppealsConfirmation>
+  <SendTeachersAppealsDenied>false</SendTeachersAppealsDenied>
+  <SendTeachersEmailForAppealsDenied>false</SendTeachersEmailForAppealsDenied>
+  <SendTeachersSmsForAppealsDenied>false</SendTeachersSmsForAppealsDenied>
+  <CalendarDateDowntimeNotificationsPeriod />
+  <DayInWeekDowntimeNotificationsPeriod />
+  <SetSubchapterUniqueForThreshold>false</SetSubchapterUniqueForThreshold>
+  <CountComplementaryStudentInStadySession2>true</CountComplementaryStudentInStadySession2>
+  <StudySessionMustDayAndHours>false</StudySessionMustDayAndHours>
+  <UpdateStudySessionsScheduleAutomatically>false</UpdateStudySessionsScheduleAutomatically>
+  <CoachingStartDateIsMandatory>false</CoachingStartDateIsMandatory>
+  <CoachingEndDateIsMandatory>false</CoachingEndDateIsMandatory>
+  <CoachingStatusIsMandatory>false</CoachingStatusIsMandatory>
+  <TeacherFromStadySessionSchudele>false</TeacherFromStadySessionSchudele>
+  <BlockFeedBackTendentiousFilling>false</BlockFeedBackTendentiousFilling>
+  <AutoSelectLearningProgramOnNewAssingment>false</AutoSelectLearningProgramOnNewAssingment>
+  <UpdateStudentByLastStatusBeforeBreak>false</UpdateStudentByLastStatusBeforeBreak>
+  <SpecialTermDefaultStatus xsi:nil="true" />
+  <RenewalStudiesPersonAdminRequestType xsi:nil="true" />
+  <UpdateStudentStatusInLearningProgram xsi:nil="true" />
+  <PlannedStudentCountPercentage xsi:nil="true" />
+  <DictateLintInDefraymentTable>false</DictateLintInDefraymentTable>
+  <ViewTutionInStudentLearningProgramDetails>false</ViewTutionInStudentLearningProgramDetails>
+  <CreateGenericCustomerPaymentToUnidentifiedVoucher>false</CreateGenericCustomerPaymentToUnidentifiedVoucher>
+  <FinancingForAllDebits>false</FinancingForAllDebits>
+  <LinkingDefinitionsByFinanceDomain>false</LinkingDefinitionsByFinanceDomain>
+  <CreateDebitForAdvancedPayment>false</CreateDebitForAdvancedPayment>
+  <CalculateDebitTemplateOnlyIfLessonsInStudentLearningProgram>false</CalculateDebitTemplateOnlyIfLessonsInStudentLearningProgram>
+  <RetroTransactionMinimalSum xsi:nil="true" />
+  <EnablePrintEnglishAccountingDocument>false</EnablePrintEnglishAccountingDocument>
+  <StartFinancingYear xsi:nil="true" />
+  <RefundFinanceDomain>0</RefundFinanceDomain>
+  <CantSetVoucherAsPaid>false</CantSetVoucherAsPaid>
+  <DateDayForMasavExportFile>0</DateDayForMasavExportFile>
+  <WorkWithYearlyFinancingBody>false</WorkWithYearlyFinancingBody>
+  <ReCalculateFinancingBodiesTransactionOnRefreshBalance>false</ReCalculateFinancingBodiesTransactionOnRefreshBalance>
+  <HideGeneralSumAndPercentageFinancingBodyLink>false</HideGeneralSumAndPercentageFinancingBodyLink>
+  <MustDefineLearningProgramOnFinancingBodyLink>false</MustDefineLearningProgramOnFinancingBodyLink>
+  <CreateSumMisMatchVouchers>false</CreateSumMisMatchVouchers>
+  <MinSumForRefund xsi:nil="true" />
+  <MinSumForTransactionBetweenFinanceDomains xsi:nil="true" />
+  <DefaultFinanceDomainForTransactionBetweenFinanceDomains xsi:nil="true" />
+  <DefaultFinanceDomainForPayments xsi:nil="true" />
+  <FinanceDomainKeyVerificationWSAdress />
+  <ImportHandmadeTransactionGroupWSAdress />
+  <ReadyRefundHeaderNotifyWSAdress />
+  <DefaultSchoolForFinanceDomain>0</DefaultSchoolForFinanceDomain>
+  <CheckingTheCheckDigitWhenImportVouchers>false</CheckingTheCheckDigitWhenImportVouchers>
+  <IncludeCreditHandlingFee>false</IncludeCreditHandlingFee>
+  <RegisterStudentToLearningProgramRoadmapByRegistrationData>false</RegisterStudentToLearningProgramRoadmapByRegistrationData>
+  <TeacherTitleFromInstitutesTable>false</TeacherTitleFromInstitutesTable>
+  <MakeUnActiveStadySessionScheduleIfTeacherAbsence>false</MakeUnActiveStadySessionScheduleIfTeacherAbsence>
+  <YearlyHoursFromStudySessions>false</YearlyHoursFromStudySessions>
+  <defaultBirthCountry xsi:nil="true" />
+  <defaultParentsBirthCountry xsi:nil="true" />
+  <defaultSatExamState xsi:nil="true" />
+  <HideAutoIncreamentOnNewCourse>false</HideAutoIncreamentOnNewCourse>
+  <IsraeliCitizen>false</IsraeliCitizen>
+  <DefaultNewCourseNameAsParentCourse>false</DefaultNewCourseNameAsParentCourse>
+  <DefaultNewCourseNameInEnglishAsParentCourse>false</DefaultNewCourseNameInEnglishAsParentCourse>
+  <ForceLessonNameAsCourseName>false</ForceLessonNameAsCourseName>
+  <HideAddLessonWithoutEdit>false</HideAddLessonWithoutEdit>
+  <RestrictNewCourseCurrentYearOnly>false</RestrictNewCourseCurrentYearOnly>
+  <HideParentCoursePeriod>false</HideParentCoursePeriod>
+  <AutoCalculateTaecherHours>false</AutoCalculateTaecherHours>
+  <AutoCalculateStudySessionHours>false</AutoCalculateStudySessionHours>
+  <EnableStudentLessonLinkExLog>false</EnableStudentLessonLinkExLog>
+  <ShowScholarshipRequestExtraFilters>false</ShowScholarshipRequestExtraFilters>
+  <InsertAutoCourseAcademicPointsByDataIntegrity>false</InsertAutoCourseAcademicPointsByDataIntegrity>
+  <AccreditationsAllowOnlyLookupSelectionForInstitute>false</AccreditationsAllowOnlyLookupSelectionForInstitute>
+  <ShowExemptReasonColumn>false</ShowExemptReasonColumn>
+  <AccreditationsRoadmapsFromStudentLP>true</AccreditationsRoadmapsFromStudentLP>
+  <AddNewLessonAndCourseInSpacialWay>false</AddNewLessonAndCourseInSpacialWay>
+  <NotAllowChangeCourseCodeIfStudnetInlisted>false</NotAllowChangeCourseCodeIfStudnetInlisted>
+  <EffectiveHoursToSemesterHours xsi:nil="true" />
+  <UseEffectiveHoursToSemesterHours>true</UseEffectiveHoursToSemesterHours>
+  <BusinessDays />
+  <SubTerminalNumber />
+  <TransInternetSubTerminalNumber />
+  <MainCreditTransactionsCompany>1</MainCreditTransactionsCompany>
+  <AllowLinkTermToRoomWithoutStudents>false</AllowLinkTermToRoomWithoutStudents>
+  <CalculationCombinedGradeByLearningProgram>false</CalculationCombinedGradeByLearningProgram>
+  <AllowPartialAsignmentInRoom>false</AllowPartialAsignmentInRoom>
+  <AllowStudentDetailsUpdateOnScholarshipRequest>false</AllowStudentDetailsUpdateOnScholarshipRequest>
+  <AllowScholarshipStatusUpdateOnStorno>false</AllowScholarshipStatusUpdateOnStorno>
+  <DefineShiftsToTerms>false</DefineShiftsToTerms>
+  <SetLessonSemestrialHours>false</SetLessonSemestrialHours>
+  <ClusterYearIsMandatoryOnLinkStudentToLearningProgram>false</ClusterYearIsMandatoryOnLinkStudentToLearningProgram>
+  <EnglishHebrewLevelOnStudentLearningProgrammLevel>false</EnglishHebrewLevelOnStudentLearningProgrammLevel>
+  <LinkTeacherToLessonsByCourseFields>false</LinkTeacherToLessonsByCourseFields>
+  <CalculateStudentCourseGrade>false</CalculateStudentCourseGrade>
+  <CalculateLessonPeriodFromSemesterHours>false</CalculateLessonPeriodFromSemesterHours>
+  <ShowLessonAssignmentRemarksOnLessonGradesPage>false</ShowLessonAssignmentRemarksOnLessonGradesPage>
+  <ActivateUnselectedStoredSearches>false</ActivateUnselectedStoredSearches>
+  <TeacherStatusIsMandatoryOnQuickTeacherAdd>false</TeacherStatusIsMandatoryOnQuickTeacherAdd>
+  <IDMLoginAuthentication>false</IDMLoginAuthentication>
+  <MessagePrecedeToAssignmentTermWithoutExaminees xsi:nil="true" />
+  <MessagePrecedeToAssignmentTermWithoutExamineesSms>false</MessagePrecedeToAssignmentTermWithoutExamineesSms>
+  <MessagePrecedeToAssignmentTermWithoutExamineesEmail>false</MessagePrecedeToAssignmentTermWithoutExamineesEmail>
+  <MessagePrecedeToAssignmentTerm xsi:nil="true" />
+  <MessagePrecedeToAssignmentTermSms>false</MessagePrecedeToAssignmentTermSms>
+  <MessagePrecedeToAssignmentTermEmail>false</MessagePrecedeToAssignmentTermEmail>
+  <MessagePrecedeToAssignmentTermToTeacher>false</MessagePrecedeToAssignmentTermToTeacher>
+  <MessagePrecedeToAssignmentTermToTeacherWithoutExaminees>false</MessagePrecedeToAssignmentTermToTeacherWithoutExaminees>
+  <MessagePrecedeToAssignmentTermToStudent>false</MessagePrecedeToAssignmentTermToStudent>
+  <GetRoomsComparingLessonLocation>false</GetRoomsComparingLessonLocation>
+  <ReminderDueDate>false</ReminderDueDate>
+  <ReminderFullName>true</ReminderFullName>
+  <ReminderTextFromTask>false</ReminderTextFromTask>
+  <StudentTaskTypeSettingItems>
+    <StudentTaskTypeDataItem>
+      <TaskType>Document</TaskType>
+      <TargetDateDaysForward xsi:nil="true" />
+    </StudentTaskTypeDataItem>
+    <StudentTaskTypeDataItem>
+      <TaskType>Email</TaskType>
+      <TargetDateDaysForward xsi:nil="true" />
+    </StudentTaskTypeDataItem>
+    <StudentTaskTypeDataItem>
+      <TaskType>Grade</TaskType>
+      <TargetDateDaysForward xsi:nil="true" />
+    </StudentTaskTypeDataItem>
+    <StudentTaskTypeDataItem>
+      <TaskType>General</TaskType>
+      <TargetDateDaysForward xsi:nil="true" />
+    </StudentTaskTypeDataItem>
+  </StudentTaskTypeSettingItems>
+  <ReminderEmail>true</ReminderEmail>
+  <AddLinkToStudentTask>false</AddLinkToStudentTask>
+  <DiactivateTeacherEmployeeOldAgreement>false</DiactivateTeacherEmployeeOldAgreement>
+  <MissingGradeNotificationFromExamDate xsi:nil="true" />
+  <MissingGradesTermsDaysAfter xsi:nil="true" />
+  <MissingGradesDepartmentNoticication>false</MissingGradesDepartmentNoticication>
+  <LateQuestionnairesDepartments>false</LateQuestionnairesDepartments>
+  <LateQuestionnairesTeachers>false</LateQuestionnairesTeachers>
+  <MissingGradesTeachersNotification>false</MissingGradesTeachersNotification>
+  <MissingGradesEmailNotification>false</MissingGradesEmailNotification>
+  <MissingGradesSmsNotification>false</MissingGradesSmsNotification>
+  <WithRoadmapLearningProgramsForDisplay>false</WithRoadmapLearningProgramsForDisplay>
+  <CalculateStudentDebitOnStudentBalaceSheetDisplay>false</CalculateStudentDebitOnStudentBalaceSheetDisplay>
+  <SendStudentReleaseFormNotifications>false</SendStudentReleaseFormNotifications>
+  <LastDetailByStudentLessons>false</LastDetailByStudentLessons>
+  <AlmaUsername />
+  <AlmaPassword />
+  <AlmaUrl />
+  <AlmaApiKey />
+  <ShowBestEnglishHebrewLevelForStudent>false</ShowBestEnglishHebrewLevelForStudent>
+  <ShowBestEnglishLevelForStudent>false</ShowBestEnglishLevelForStudent>
+  <ShowBestHebrewLevelForStudent>false</ShowBestHebrewLevelForStudent>
+  <CalculateStudentAverageByStudentLearningReport>false</CalculateStudentAverageByStudentLearningReport>
+  <InterestedStatusAutomaticOnPayment xsi:nil="true" />
+  <InactiveLessonDeleteStudySessions>false</InactiveLessonDeleteStudySessions>
+  <AllowDeleteEmptyTermOnLessonAssignmentRemoval>false</AllowDeleteEmptyTermOnLessonAssignmentRemoval>
+  <ShowAlertLinkStudentToLessonWithDiffrentDivision>false</ShowAlertLinkStudentToLessonWithDiffrentDivision>
+  <WeeklyScheduleShowAllTeachers>false</WeeklyScheduleShowAllTeachers>
+  <IgnoreAssignLessonPreviousYearsOverlap>false</IgnoreAssignLessonPreviousYearsOverlap>
+  <HideAdditionalMandatoryCourseTabOnCourse>false</HideAdditionalMandatoryCourseTabOnCourse>
+  <OnlyAssignedRoomsWereScheduled>false</OnlyAssignedRoomsWereScheduled>
+  <OnlyIfAssignedRoomsToAssignmentTerm>false</OnlyIfAssignedRoomsToAssignmentTerm>
+  <LessonWithCapacityNullMeanNoCapacity>false</LessonWithCapacityNullMeanNoCapacity>
+  <IgnoreLessonEndDate>false</IgnoreLessonEndDate>
+  <AllowDefiningTeacherAsCoordinator>false</AllowDefiningTeacherAsCoordinator>
+  <SendEmailToStudentApplicationOnCommunicationLogs>false</SendEmailToStudentApplicationOnCommunicationLogs>
+  <StudentAccreditationExampReason xsi:nil="true" />
+  <FillDescriptionFieldTaskIsNotRequired>false</FillDescriptionFieldTaskIsNotRequired>
+  <CreateAccreditationExemptionDebit>false</CreateAccreditationExemptionDebit>
+  <KmhFiltersContainerDefaultFiltersRender>BackwardCompatibility</KmhFiltersContainerDefaultFiltersRender>
+  <IgnoreYearStartPriceLinkOnPaymentsData>false</IgnoreYearStartPriceLinkOnPaymentsData>
+  <DoNotChargeMoreThanStudentBalance>false</DoNotChargeMoreThanStudentBalance>
+  <LinkArchiveFileToScholarshipRequest>false</LinkArchiveFileToScholarshipRequest>
+  <DoNotUseStandingOrderOnDefraymentTable>false</DoNotUseStandingOrderOnDefraymentTable>
+  <ConditionalLessonRegistrationActive>false</ConditionalLessonRegistrationActive>
+  <ConditionalLessonRegistrationDefenitions />
+  <ConditionalLessonRegistrationWaitingTime xsi:nil="true" />
+  <ConditionalLessonRegistrationMaximumAllowedDebitSum>0</ConditionalLessonRegistrationMaximumAllowedDebitSum>
+  <ConditionalLessonRegistrationCreateStudentWeeklyScheduleMessage />
+  <ConditionalLessonRegistrationNegateStudentLessonStatuses />
+  <CheckPassingGradeByLastKnownCourseGradeInCourse>false</CheckPassingGradeByLastKnownCourseGradeInCourse>
+  <CoursesOnlineRegistrationDocumentType>Receipt</CoursesOnlineRegistrationDocumentType>
+  <RequiredLessonAssignmentPeriod>false</RequiredLessonAssignmentPeriod>
+  <InactiveLessonDeleteLessonAssignmentTerms>false</InactiveLessonDeleteLessonAssignmentTerms>
+</SystemPreferences>
