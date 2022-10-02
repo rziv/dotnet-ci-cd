@@ -12,7 +12,7 @@
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2>Hello World!</h2>
+    <h2>Hello World</h2>
     <uc1:DailyRoomsActivitiesHeader runat="server" ID="DailyRoomsActivitiesHeader" />
     <uc1:DailyRoomsActivitiesMatrix runat="server" ID="DailyRoomsActivitiesMatrix" />
     
